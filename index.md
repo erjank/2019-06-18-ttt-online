@@ -13,7 +13,7 @@ contact: ["ericjankowski@boisestate.edu","naupaka@gmail.com"]    # boxed, comma-
 etherpad: https://pad.carpentries.org/2019-06-18-ttt-online            # optional: URL for the workshop Etherpad if there is one
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME-When-updated"
+    address: "https://carpentries.zoom.us/my/carpentriesroom1"
 
 ---
 
